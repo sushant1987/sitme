@@ -1,2 +1,2 @@
-# sitme
+# SitMe
 Meeting room reservation
